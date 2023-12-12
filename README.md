@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<p>نظام تحضير الطلاب
+<p>https://systemstudent.byethost7.com نظام تحضير الطلاب
 
 فكرة النظام
 يتم تحضير الطلاب من قبل المدرسين ويمكن للطالب الاطلاع على ايام الغياب والحضور لكن دون ان يستطع التعديل
