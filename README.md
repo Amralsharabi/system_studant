@@ -7,12 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<p>https://systemstudent.byethost7.com نظام تحضير الطلاب
+<h1>https://systemstudent.byethost7.com</h1>
+<p>نظام تحضير الطلاب
 
 فكرة النظام
 يتم تحضير الطلاب من قبل المدرسين ويمكن للطالب الاطلاع على ايام الغياب والحضور لكن دون ان يستطع التعديل
 اولأ تسجيل الدخول الى النظام كتالي
-email: admin
+email: admin@gmail.com
 password: 123456789
 بعد ذالك يمكنك الان اضافة طالب جديد واعطاه الصلاحيات التي تريدها
 او مدرس او موظف كل منهم ياخذ صلاحية محددة
