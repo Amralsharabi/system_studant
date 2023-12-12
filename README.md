@@ -7,6 +7,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<p>نظام تحضير الطلاب
+
+فكرة النظام
+يتم تحضير الطلاب من قبل المدرسين ويمكن للطالب الاطلاع على ايام الغياب والحضور لكن دون ان يستطع التعديل
+اولأ تسجيل الدخول الى النظام كتالي
+email: admin
+password: 123456789
+بعد ذالك يمكنك الان اضافة طالب جديد واعطاه الصلاحيات التي تريدها
+او مدرس او موظف كل منهم ياخذ صلاحية محددة
+
+مثلاً المدرس لايستطيع سوى التحضير فقط والا يستطيع اضافة مستخدمين ويمكن ايضاً ان تعطيه صلاحية على فصول محددة كتالي(اول - ثاني - ثالث) وهكذا اعطاء الصلاحيات بماتراه مناسب
+
+يمكن للمدير ان يطلع على الطلاب المستمرين والطلاب االمنقطعين، اذا كان هناك غياب لمدة اكثر من ثلاثة ايام يعتبر هذا الطالب منقطع
+ويستطيع المدير توقيف اي مستخدم في حال حدث شي ما.</p>
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
